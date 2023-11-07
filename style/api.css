@@ -1,0 +1,15 @@
+
+.user{
+    background: linear-gradient(#e66465, #9198e5);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+.header1{
+    text-align: center;
+    width: 45px;
+    height: 45px;
+    background: rgb(65, 110, 169);
+    border-radius: 50%;
+}
+
+
